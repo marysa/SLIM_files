@@ -10,7 +10,7 @@
             mask    mask
          </variableNames>
          <filePath>
-            /glade/p/work/mlague/CESM/som/qflux
+            /glade/work/mlague/CESM/som/qflux
          </filePath>
          <fileNames>
             pop_frc.b.e11.B1850C5CN.f09_g16.005.082914_j.nc
@@ -27,7 +27,7 @@
             qdp   qbot
          </variableNames>
          <filePath>
-            /glade/p/work/mlague/CESM/som/qflux
+            /glade/work/mlague/CESM/som/qflux
          </filePath>
          <fileNames>
             pop_frc.b.e11.B1850C5CN.f09_g16.005.082914_j.nc
